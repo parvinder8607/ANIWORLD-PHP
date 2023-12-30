@@ -80,11 +80,6 @@ function showSlides() {
     setTimeout(showSlides, 4000); // Change slide every 2 seconds (2000 milliseconds)
 }
 
-//Function call for trending list
-// let trendUrl = "https://api.jikan.moe/v4/top/anime?filter=airing&type=tv&sfw=false&rating=r17";
-
-// fetchTrend(trendUrl);
-//function for scroll trending list
 
 function scrollContent(direction) {
     const container = document.querySelector('.trend-list-container');

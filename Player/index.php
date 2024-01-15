@@ -101,10 +101,6 @@
                         scrolling="no"></iframe>
                 </div>
                 <div class="playTool">
-               <!-- <?php 
-                include("downloadFunct.php");
-               ?> -->
-
                 </div>
                 <div id="EpisodeNo">
                     <p>You are watching : </p>

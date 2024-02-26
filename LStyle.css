@@ -28,6 +28,9 @@
 
 }
 /* CSS FOR SEARCH BAR AND ITS RESULT  */
+.Search-box{
+    right: -210px;
+}
 .search-bar{
         top: 0px;
         right: 50px;
@@ -56,7 +59,7 @@
     margin-right: 10px;
 }
 .logo {
-    margin-left: -300px;
+    margin-left: -30px;
     font-size: 22px;
 }
 
@@ -64,6 +67,18 @@
     width: 35px;
     height: 35px;
 }
+.login-button {
+    background-color: #c5b538;
+    color: black;
+    display: inline-block;
+    padding: 8px 15px;
+    font-weight: bold;
+    border-radius: 25px;
+}
+.login-button a{
+    display: inherit;
+}
+
 
 /* CSS FOR SLIDE SECTION  */
 

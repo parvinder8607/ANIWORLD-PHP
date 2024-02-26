@@ -25,8 +25,8 @@
 
     <meta name="google-site-verification" content="u3cMChAjr9XXKjBpPrLqloJ_VQoRbHcK8VDAci9GM_Y">
     <title>AniWorld - Watch Anime Online, Free Anime Streaming Online on AniWorld.fun Anime Website</title>
-    <link rel="stylesheet" type="text/css" href="/ANIWORLD/Style.css">
-    <link rel="stylesheet" type="text/css" href="/ANIWORLD/LStyle.css" media="only screen and (min-width: 970px)">
+    <link rel="stylesheet" type="text/css" href=" /Style.css">
+    <link rel="stylesheet" type="text/css" href=" /LStyle.css" media="only screen and (min-width: 970px)">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -37,8 +37,8 @@
     <link rel="prefetch" href="/superpwa.json">
     <meta name="apple-mobile-web-app-status-bar" content="#202125">
     <link rel="icon" href="/Logo/logo.png">
-    <link rel="icon" sizes="192x192" href="/ANIWORLD/logo/logo.png">
-    <link rel="icon" sizes="512x512" href="/ANIWORLD/Logo/logo.png">
+    <link rel="icon" sizes="192x192" href=" /logo/logo.png">
+    <link rel="icon" sizes="512x512" href=" /Logo/logo.png">
     <link rel="shortcut icon" href="/Logo/logo.png" type="image/png">
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -67,13 +67,13 @@
             <div id="menu-icon">&#9776;</div>
             <nav id="menu">
                 <ul>
-                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../index.php">Home</a></li>
                     <li><a href="#">Categories</a></li>
                     <li><a href="/latest">Latest Aired</a></li>
                     <li><a href="#">Top anime</a></li>
                 </ul>
             </nav>
-            <div class="logo"><a href="../index.html">
+            <div class="logo"><a href="../index.php">
                     <h2>AniWorld</h2>
                 </a>
             </div>
@@ -83,15 +83,20 @@
                 </div>
                 <div id="results-container" style="display: none;"></div>
                 <div id="search-icon" class="search-icon">
-                    <img src="/ANIWORLD/image/search_logo.svg" alt="search-icon">
+                    <img src=" /image/search_logo.svg" alt="search-icon">
                 </div>
-            </div>
+               
+            </div> 
+            <div class="login-button"><a href="/login">
+                    login
+    </a>
+                </div>
         </div>
     </header>
     <main>
         <div class="slideshow-container">
             <div class="slide" style="display: none;">
-                <div class="slide-image"><img src="/ANIWORLD/image/home/ttigras.jpe" alt="image1"></div>
+                <div class="slide-image"><img src=" /image/home/ttigras.jpe" alt="image1"></div>
                 <div class="slide-detail">
                     <div class="slide-content">
                         <div class="slide-title">That Time i got reincarnated as a slime</div>
@@ -112,7 +117,7 @@
                 </div>
             </div>
             <div class="slide" style="display: none;">
-                <div class="slide-image"><img src="/ANIWORLD/image/home/TEIS.png" alt="IMAGE2"></div>
+                <div class="slide-image"><img src=" /image/home/TEIS.png" alt="IMAGE2"></div>
                 <div class="slide-detail">
                     <div class="slide-content">
                         <div class="slide-title">The Eminence in Shadow</div>
@@ -138,7 +143,7 @@
                 </div>
             </div>
             <div class="slide" style="display: none;">
-                <div class="slide-image"><img src="/ANIWORLD/image/home/SLF.webp" alt="IMAGE2"></div>
+                <div class="slide-image"><img src=" /image/home/SLF.webp" alt="IMAGE2"></div>
                 <div class="slide-detail">
                     <div class="slide-content">
                         <div class="slide-title">Shangri-La Frontier</div>
@@ -159,7 +164,7 @@
                 </div>
             </div>
             <div class="slide" style="display: none;">
-                <div class="slide-image"><img src="/ANIWORLD/image/home/SXF.png" alt="IMAGE2"></div>
+                <div class="slide-image"><img src=" /image/home/SXF.png" alt="IMAGE2"></div>
                 <div class="slide-detail">
                     <div class="slide-content">
                         <div class="slide-title">Spy X Family</div>
@@ -190,7 +195,7 @@
                             <span>Shangri-La Frontier</span>
                         </div>
                         <div class="trend-image">
-                            <img src="/ANIWORLD/image/SLF.jpg" alt="Shangri-La Frontier">
+                            <img src=" /image/SLF.jpg" alt="Shangri-La Frontier">
                         </div>
                     </div>
                     <?php 
@@ -212,7 +217,7 @@
                 <div id="available-list">
                     <div class="item-card">
                         <div class="item " onClick="redirectToPlayer('37430')">
-                            <img src="/ANIWORLD/image/anime-image.jpg" alt="That time I got reincarnated as a slime">
+                            <img src=" /image/anime-image.jpg" alt="That time I got reincarnated as a slime">
                             <p>That Time I Got Reincarnated as a Slime</p>
                         </div>
                         <div class="floatItem">
@@ -244,14 +249,14 @@
 </body>
 
 
-<!-- <script src="/ANIWORLD/trendList.js"></script> -->
+<!-- <script src=" /trendList.js"></script> -->
 
-<!-- <script src="/ANIWORLD/AvailList.js"></script> -->
+<!-- <script src=" /AvailList.js"></script> -->
 
-<script src="/ANIWORLD/Script.js"></script>
+<script src=" /Script.js"></script>
 
 
-<script src="/ANIWORLD/SearchResult.js"></script>
+<script src=" /SearchResult.js"></script>
 <script>
 
 </script>

@@ -25,8 +25,8 @@
 
     <meta name="google-site-verification" content="u3cMChAjr9XXKjBpPrLqloJ_VQoRbHcK8VDAci9GM_Y">
     <title>AniWorld - Watch Anime Online, Free Anime Streaming Online on AniWorld.fun Anime Website</title>
-    <link rel="stylesheet" href="/ANIWORLD/Style.css">
-    <link rel="stylesheet" href="/ANIWORLD/LStyle.css" media="only screen and (min-width: 970px)">
+    <link rel="stylesheet" href=" /Style.css">
+    <link rel="stylesheet" href=" /LStyle.css" media="only screen and (min-width: 970px)">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,10 +36,10 @@
     <link rel="manifest" href="/superpwa.json">
     <link rel="prefetch" href="/superpwa.json">
     <meta name="apple-mobile-web-app-status-bar" content="#202125">
-    <link rel="icon" href="/ANIWORLD/Logo/logo.png">
-    <link rel="icon" sizes="192x192" href="/ANIWORLD/logo/logo.png">
-    <link rel="icon" sizes="512x512" href="/ANIWORLD/Logo/logo.png">
-    <link rel="shortcut icon" href="/ANIWORLD/Logo/logo.png" type="image/png">
+    <link rel="icon" href=" /Logo/logo.png">
+    <link rel="icon" sizes="192x192" href=" /logo/logo.png">
+    <link rel="icon" sizes="512x512" href=" /Logo/logo.png">
+    <link rel="shortcut icon" href=" /Logo/logo.png" type="image/png">
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
@@ -65,13 +65,13 @@
             <div id="menu-icon">&#9776;</div>
             <nav id="menu">
                 <ul>
-                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../index.php">Home</a></li>
                     <li><a href="#">Categories</a></li>
                     <li><a href="/latest">Latest Aired</a></li>
                     <li><a href="#">Top anime</a></li>
                 </ul>
             </nav>
-            <div class="logo"><a href="../index.html">
+            <div class="logo"><a href="../index.php">
                     <h2>AniWorld</h2>
                 </a>
             </div>
@@ -81,7 +81,7 @@
                     <input type="text" placeholder="Search..." id="sBarr">
                 </div>
                 <div id="search-icon" class="search-icon">
-                    <img src="/ANIWORLD/image/search_logo.svg" alt="search-icon">
+                    <img src=" /image/search_logo.svg" alt="search-icon">
                 </div>
                 <div id="results-container" style="display: none;"></div>
 
@@ -111,7 +111,7 @@
                         style="color:rgb(65, 54, 54); font-weight: bold;border-radius: 5px ; padding: 0px 8px; background-color: rgb(212, 230, 133);">
                         Audio
                         <div class="image" style="display: inline;position: relative; top: 3px;"><img
-                                src="/ANIWORLD/image/audio-svgrepo-com.svg" alt=""></div>
+                                src=" /image/audio-svgrepo-com.svg" alt=""></div>
                     </div>
                     <span style="color: white; font-size: 25px; font-weight: bold; padding: 0px 5px;">:</span>
                     <div id="sub" onclick="changeAudio('sub');"
@@ -157,7 +157,7 @@
                 <div id="available-list">
                     <div class="item-card">
                         <div class="item " data-url="/That time i got reincarnated as a Slime">
-                            <img src="/ANIWORLD/image/anime-image.jpg" alt="That time I got reincarnated as a slime">
+                            <img src=" /image/anime-image.jpg" alt="That time I got reincarnated as a slime">
                             <p>That Time I Got Reincarnated as a Slime</p>
                         </div>
                         <div class="floatItem">
@@ -186,9 +186,9 @@
     </footer>
 
 </body>
-<script src="/ANIWORLD/Script.js"></script>
-<script src="/ANIWORLD/AvailList.js"></script>
-<script src="/ANIWORLD/SearchResult.js"></script>
-<script src="/ANIWORLD/Player/PlayerContent.js"></script>
+<script src=" /Script.js"></script>
+<script src=" /AvailList.js"></script>
+<script src=" /SearchResult.js"></script>
+<script src=" /Player/PlayerContent.js"></script>
 
 </html>

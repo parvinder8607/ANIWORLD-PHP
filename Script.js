@@ -94,6 +94,6 @@ function scrollContent(direction) {
 // const Iframe = document.getElementById('myIframe');
 // Redirection Function for page
   function redirectToPlayer(parameterValue) {
-    var url = '/ANIWORLD/Player/index.php?AnimeId=' + parameterValue;
+    var url = '/Player/index.php?AnimeId=' + parameterValue;
     window.location.href = url;
 }
